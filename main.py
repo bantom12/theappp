@@ -38,7 +38,7 @@ from kivy.uix.floatlayout import FloatLayout
 import os
 from kivy.uix.popup import Popup
 
-import hashlib
+
 
 import traceback
 
