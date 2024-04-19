@@ -6,7 +6,7 @@ from kivy.uix.boxlayout import BoxLayout
 
 
 import sys
-import lzma
+
 import tempfile
 
 
