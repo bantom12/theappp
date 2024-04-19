@@ -5,9 +5,9 @@ from kivy.uix.boxlayout import BoxLayout
 
 
 
-import sys
 
-import tempfile
+
+
 
 
 
@@ -40,9 +40,8 @@ from kivy.uix.popup import Popup
 
 
 
-import traceback
 
-import praw
+
 from kivy.uix.image import Image
 
 
