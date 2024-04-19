@@ -7,7 +7,7 @@ title = Gmad
 package.name = GmadExtractor
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = com.bemo.app
+package.domain = org.test
 
 # (str) Source code where the main.py live
 source.dir = .
@@ -47,7 +47,7 @@ requirements = python3,kivy,shutil,sys,lzma,tempfile,binascii,struct,construct,l
 #presplash.filename = %(source.dir)s/data/presplash.png
 
 # (str) Icon of the application
-#icon.filename = %(source.dir)s/data/icon.png
+icon.filename = %(source.dir)s/assests/icon.png
 
 # (list) Supported orientations
 # Valid options are: landscape, portrait, portrait-reverse or landscape-reverse
