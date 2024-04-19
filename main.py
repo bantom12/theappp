@@ -185,7 +185,7 @@ class MyPopup(Popup):
 class MyApp(App):
     def build(self):
            layout = FloatLayout()
-           bg_pic = Image(source='minimal-skull-art.jpg', allow_stretch=True)
+           bg_pic = Image(source='/assests/Picsart_24-04-19_10-43-02-979.png', allow_stretch=True)
            layout.add_widget(bg_pic)
         
            
