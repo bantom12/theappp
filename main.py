@@ -44,7 +44,7 @@ import traceback
 
 import praw
 from kivy.uix.image import Image
-import random
+
 import re
 
 
