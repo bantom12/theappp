@@ -9,7 +9,7 @@ import sys
 import lzma
 import tempfile
 
-from binascii import crc32
+
 
 from struct import pack
 
